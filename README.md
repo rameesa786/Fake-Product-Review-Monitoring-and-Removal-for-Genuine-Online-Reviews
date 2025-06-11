@@ -43,11 +43,6 @@ Fake product reviews mislead buyers and damage the credibility of online platfor
 - 🏙️ **Expansion to multi-region, multi-platform monitoring**
 - ⚡ **Real-time detection** with **Edge Computing**
 ---
-## 📚 References
-1. 📄 *Rajashree S. Jadhav, Deipali V. Gore*, “A New Approach for Identifying Manipulated Online Reviews using Decision Tree”, IJCSIT, 2014.  
-2. 📄 *Nitin Jindal, Bing Liu*, “Analyzing and Detecting Review Spam”, WSDM, 2007.  
-3. 📄 *Ivan Titov*, “A Joint Model of Text and Aspect Ratings for Sentiment Summarization”, UIUC, 2011.
----
 ## 👨‍💻 Developed By
 - 👩‍💻 **Rameesa** 
 ---
